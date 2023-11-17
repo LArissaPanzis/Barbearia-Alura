@@ -1,7 +1,11 @@
 body {
-    background: #823456
+    background: #CCCCCC
 }
 
 p {
     text-align: center;
+}
+
+strong {
+    color: yellow;
 }
