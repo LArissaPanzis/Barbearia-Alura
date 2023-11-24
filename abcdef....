@@ -19,3 +19,17 @@ F = Máximo
 #FFFFFF
 
 #FF0000
+
+red
+blur
+yellow
+
+RGB 0,1,2,3,...255
+
+0 = ansência
+
+255 = máximo
+
+rgb(255,255,255)
+
+rgb(0,0,255)
